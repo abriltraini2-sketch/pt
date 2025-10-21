@@ -1,0 +1,179 @@
+  ul{
+    text-align: right;
+}
+
+
+
+
+
+
+.menu {
+    list-style: none;
+    padding: 0;
+    width: 100%;
+    max-width: 2000px;
+    margin: auto;
+    background-color: rgb(255, 255, 255);
+  text-align: left;
+
+    
+}
+
+ 
+
+.menu li a{
+    text-decoration: none;
+    color: rgb(31, 31, 32);
+    padding: 20px;
+    display: block;
+    text-align: right;
+    font-family: "Lexend", sans-serif;
+    transition:0.5s;
+  font-size: 16px;
+}
+
+
+.menu ul{
+    text-align: left;
+     height: 30px;
+}
+
+.menu li{
+display: inline-block;
+text-align: center;
+ 
+}
+
+.menu .navbar ul li a:hover{
+    color: rgba(197, 80, 143, 0.701);
+    transform: scale(0.75);
+}
+
+
+h1{
+    font-family: "Lexend", sans-serif;
+
+    font-size: 45px;
+  
+ text-align: left;
+ text-indent: 89px;
+margin-top: 50px;
+
+  background: linear-gradient(to right,
+    #ffffffaf 0%,       /* color fuerte al inicio */
+    #ffffff 20%,      /* transición suave */
+    #ffffff 40%,      /* color final muy pronto */
+    #ffffff 100%);    /* resto del texto blanco */
+    
+
+
+
+
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+
+
+
+.subtitulo {
+  display: block;
+  font-size: 44px;
+  margin-top: 5px;
+  background: linear-gradient(to right,
+    #ffffff33 0%,       /* color fuerte al inicio */
+    #ffffff 20%,      /* transición suave */
+    #ffffff 40%,      /* color final muy pronto */
+    #ffffff 100%);    /* resto del texto blanco */
+    
+
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+
+
+
+h2{
+    font-family:    "Lexend", sans-serif;
+    font-size: 33px;
+    color: rgb(255, 255, 255);
+ text-align: left;
+ text-indent: 89px;
+margin-top: 40px;
+}
+
+
+
+.hola{
+border: 12px;
+}
+
+
+.div2{
+ 
+background: rgba(255,255,255,0);
+
+  list-style: none;
+    padding: 0;
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+}
+
+
+  
+h1 .marg{
+  font-family: 'Arial Narrow Bold', sans-serif;
+ 
+}
+
+.header{
+    background-image: url(Escuel_20251021_100927_0000.png);
+box-shadow: -5px 36px 33px -3px rgba(142,94,132,0.39);
+-webkit-box-shadow: -5px 36px 33px -3px rgba(142,94,132,0.39);
+-moz-box-shadow: -5px 36px 33px -3px rgba(142,94,132,0.39);
+
+background-position: center center;
+     background-repeat: no-repeat;
+    background-size: cover;
+   
+    
+     padding: 0%;
+     margin: auto;
+    
+min-height: 390px;
+ width: 95%;
+ height: 97%;
+  max-height: auto; /* Ajustá según tu diseño */
+  object-fit: cover;
+
+
+  
+}
+
+
+body{
+
+background-color:#3c6b9ee9;
+background-repeat: no-repeat;
+background-size: cover;
+
+  background-position: center;  /* centra la imagen */
+
+
+}
+
+
+.pastilla {
+  background: linear-gradient(to right,#b8b95a, #898bc7); /* degradado suave */
+  padding: 6px 16px; /* más espacio horizontal que vertical */
+  border-radius: 999px; /* forma completamente redonda en extremos */
+  display: inline-block; /* permite que el fondo se ajuste al contenido */
+  color: #ffffff;
+  font-weight: 500;
+  line-height: 1;
+  text-decoration: none;
+  white-space: nowrap; /* evita que se corte en dos líneas */
+}
+
