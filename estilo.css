@@ -24,7 +24,7 @@
 .menu li a{
     text-decoration: none;
     color: rgb(31, 31, 32);
-    padding: 20px;
+    padding: 7px;
     display: block;
     text-align: right;
     font-family: "Lexend", sans-serif;
@@ -142,9 +142,9 @@ background-position: center center;
      padding: 0%;
      margin: auto;
     
-min-height: 390px;
+min-height: 510px;
  width: 95%;
- height: 97%;
+ height: auto;
   max-height: auto; /* Ajustá según tu diseño */
   object-fit: cover;
 
